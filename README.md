@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 Learning and practicing Swift with [Exercism](https://github.com/blude/exercism-swift)
+- 🌱 Also learning Pico-8 with the help of [Lazy Devs Academy](https://youtube.com/@LazyDevs)
+- 💬 Ask me about UX/UI design
+- 😊 Pronoums: she/her 🌈
+
 <!--
 **blude/blude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
