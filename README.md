@@ -2,7 +2,7 @@
 
 I'm Sarah, a designer who's passionate about technology, digital solutions, how it affect us as well as how it transforms the world around us. I'm curious about how things work, so I'm always digging up into the source code of websites and applications.
 
-I'm most certainly breaking things along the way 😜.
+I'm most certainly breaking things along the way 😄
 
 - 👩🏻‍🎓 I'm currently studying [Master Digital Design](https://www.fh-dortmund.de/studiengaenge/digital-design-master.php) at the Dortmund University of Applied Sciences and Arts.
 - ❤️ Favorite Tech: HTML, CSS, JavaScript, PHP, Swift, Lua + PICO-8.
