@@ -1,4 +1,4 @@
-# Hallo Welt! 😊
+## Hallo Welt! 😊
 
 I'm Sarah, a designer who's passionate about technology, digital solutions, how it affect us as well as how it transforms the world around us. I'm curious about how things work, so I'm always digging up into the source code of websites and applications.
 
