@@ -1,21 +1,14 @@
-### Hi there 👋
+# Hallo Welt! 😊
 
-- 🔭 Learning and practicing Swift with [Exercism](https://github.com/blude/exercism-swift)
-- 🌱 Also learning Pico-8 with the help of [Lazy Devs Academy](https://youtube.com/@LazyDevs)
-- 💬 Ask me about UX/UI design
-- 😊 Pronoums: she/her 🌈
+I'm Sarah, a designer who's passionate about technology, digital solutions, how it affect us as well as how it transforms the world around us. I'm curious about how things work, so I'm always digging up into the source code of websites and applications.
+
+- 👩🏻‍🎓 I'm currently studying [Master Digital Design](https://www.fh-dortmund.de/studiengaenge/digital-design-master.php) at the Dortmund University of Applied Sciences and Arts.
+- ❤️ Favorite Tech: HTML, CSS, JavaScript, PHP, Swift, Lua + PICO-8.
+- 💬 You can ask me about usability, user interface design, digitalisation.
+- 🔬 I'm interested in learning more about accessibility, sustainability and diversity in tech.
+- 🦄 Pronoums: she/her 🏳️‍⚧️
 
 <!--
-**blude/blude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Learning and practicing Swift with [Exercism](https://github.com/blude/exercism-swift)
+- 🌱 Also learning Pico-8 with the help of [Lazy Devs Academy](https://youtube.com/@LazyDevs)
 -->
